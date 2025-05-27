@@ -1,0 +1,20 @@
+{
+    "asset_id": "4b2f1e3f253608cea694bc561b0f464b",
+    "public_id": "csrwvffhmc8zo7wrvbkv.pdf",
+    "version": 1748205425,
+    "version_id": "e82a331b4e397e2a73b94dfc6443f28d",
+    "signature": "efc29cb09d5b5d375b994daec8ae4224a6dcc40c",
+    "resource_type": "raw",
+    "created_at": "2025-05-25T20:37:05Z",
+    "tags": [],
+    "bytes": 1133314,
+    "type": "upload",
+    "etag": "f63888c244f288d277945c873bb434da",
+    "placeholder": false,
+    "url": "http://res.cloudinary.com/dbvsoijhj/raw/upload/v1748205425/csrwvffhmc8zo7wrvbkv.pdf",
+    "secure_url": "https://res.cloudinary.com/dbvsoijhj/raw/upload/v1748205425/csrwvffhmc8zo7wrvbkv.pdf",
+    "asset_folder": "",
+    "display_name": "csrwvffhmc8zo7wrvbkv.pdf",
+    "original_filename": "448da33e-c9e1-4678-bfc1-90d087c8492c-1748205412457-kcet2",
+    "api_key": "448855326865884"
+}
